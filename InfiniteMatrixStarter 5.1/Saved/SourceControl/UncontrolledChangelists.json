@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Meshes/lambert1.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Meshes/HealthPack.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/Health.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Meshes/TEX_HealthPack_Albedo.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Meshes/TEX_HealthPack_roughness.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_PlayerProjectile.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/CameraShake.uasset",
+				"U:/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset",
+				"C:/Users/yeyu4/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/yeyu4/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/yeyu4/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/yeyu4/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/yeyu4/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset"
+			]
+		}
+	]
+}
